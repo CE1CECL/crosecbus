@@ -9,8 +9,6 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{EA676041-89D8-4ACF-A48B-F11CA9F5DD8B}</ProjectGuid>
     <TemplateGuid>{4605da2c-74a5-4865-98e1-152ef136825f}</TemplateGuid>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
     <Configuration>Windows8 Debug</Configuration>
     <Platform Condition="'$(Platform)' == ''">x64</Platform>
     <RootNamespace>crosecbus_Package</RootNamespace>
